@@ -4,9 +4,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=donalwall207&label=Profile%20views&color=0e75b6&style=flat" alt="donalwall207" /> </p>
 
-- Previous work experience **Former Bartender at the Majestic Hotel for over 2 years**
+- Previous work experience: **Former Bartender at the Majestic Hotel for over 2 years**
 
-- About me **21 year old Applied Computing (Forensics Student))**
+- About me: **21 year old Applied Computing (Forensics Student))**
 
 - 📫 How to reach me **donaljohnwall@gmail.com**
 
