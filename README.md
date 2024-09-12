@@ -1,12 +1,12 @@
 ### Donal Wall
 <h1 align="center">Hi 👋, I'm Donal Wall</h1>
-<h3 align="center">3rd year Applied Computing Student at South East Technological University</h3>
+<h3 align="center">4th year Applied Computing Student at South East Technological University</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=donalwall207&label=Profile%20views&color=0e75b6&style=flat" alt="donalwall207" /> </p>
 
-- Previous work experience: **Former Bartender at the Majestic Hotel for over 2 years**
+- Previous work experience: **Former Bartender at the Majestic Hotel for over 2 years, Former SOC Analyst Intern at State Street**
 
-- About me: **21 year old Applied Computing (Forensics Student))**
+- About me: **22 year old Applied Computing (Forensics Student))**
 
 - 📫 How to reach me **donaljohnwall@gmail.com**
 
