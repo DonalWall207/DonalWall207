@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Donal Wall</h1>
-<h3 align="center">Firmware Developer at IBM</h3>
+<h3 align="center">Firmware Engineer at IBM</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=donalwall207&label=Profile%20views&color=0e75b6&style=flat" alt="donalwall207" /> </p>
 
