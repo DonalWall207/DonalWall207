@@ -22,17 +22,19 @@ HEADER = "donal@wall"
 
 # (key, value) pairs; key=None draws a section divider with value as its title
 INFO = [
-    ("OS", "Firmware Engineer @ IBM"),
-    ("Uptime", "{uptime}"),
-    ("Host", "MSc Computer Science"),
-    ("Kernel", "Enterprise Software Systems"),
-    ("IDE", "VS Code, IntelliJ, Android Studio"),
+    ("Role", "Firmware Engineer @ IBM"),
+    ("Age", "{uptime}"),
+    ("Studying", "MSc Computer Science"),
+    ("Specialisation", "Enterprise Software Systems"),
+    ("Degree", "BSc Computer Science"),
     (None, ""),
-    ("Languages.Programming", "C, Python, Java, Kotlin, TS"),
-    ("Languages.Computer", "HTML, CSS, SQL, Bash"),
-    ("Tools", "Docker, Git, Linux, AWS, Azure"),
-    ("Hobbies", "Football, F1, Rugby"),
-    (None, ""),
+    ("Languages", "C, Python, Rust, Kotlin, Java"),
+    ("Web & Scripting", "HTML, CSS, SQL, Bash"),
+    ("Tools", "Docker, Git, Linux, AWS, Jenkins"),
+    ("Editors & IDEs", "VS Code, IntelliJ, Android Studio, Vim"),
+    ("Hobbies", "Football, F1, Movies"),
+    (None, "Experience"),
+    ("Current", "Firmware Engineer @ IBM"),
     ("Previous", "SOC Analyst Intern @ State Street"),
     ("", "Bartender @ The Majestic Hotel"),
     (None, "Contact"),
@@ -55,9 +57,10 @@ ASCII_ART = r"""
     \_/\_/ \__,_|_|_|
 
   .------------------------.
-  | $ make flash           |
-  | [########----] 67%     |
-  | target: ibm-firmware   |
+  | $ whoami               |
+  | donal                  |
+  | $ whoami --honest      |
+  | runs off white monster |
   '------------------------'
 """
 
