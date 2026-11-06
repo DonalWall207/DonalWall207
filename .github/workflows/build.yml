@@ -1,0 +1,50 @@
+name: Update profile README
+
+on:
+  schedule:
+    - cron: "17 4 * * *"   # every day at 04:17 UTC
+  workflow_dispatch:         # adds a "Run workflow" button in the Actions tab
+  push:
+    branches: [main]
+    paths: [today.py, cards.py, .github/workflows/build.yml]
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      # Main card, stats card, top languages, trophies
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: pip install requests python-dateutil
+      - run: python today.py
+        env:
+          ACCESS_TOKEN: ${{ secrets.ACCESS_TOKEN || secrets.GITHUB_TOKEN }}
+          USER_NAME: ${{ github.repository_owner }}
+
+      # Streak card (official action, generated into this repo)
+      - name: Streak card (dark)
+        uses: DenverCoder1/github-readme-streak-stats@main
+        with:
+          options: user=${{ github.repository_owner }}&card_width=485&hide_border=false&background=161B22&border=30363D&stroke=30363D&ring=FFA657&fire=FFA657&currStreakNum=C9D1D9&sideNums=C9D1D9&currStreakLabel=FFA657&sideLabels=A5D6FF&dates=8B949E
+          path: cards/streak_dark.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+      - name: Streak card (light)
+        uses: DenverCoder1/github-readme-streak-stats@main
+        with:
+          options: user=${{ github.repository_owner }}&card_width=485&hide_border=false&background=F6F8FA&border=D0D7DE&stroke=D0D7DE&ring=953800&fire=953800&currStreakNum=24292F&sideNums=24292F&currStreakLabel=953800&sideLabels=0A3069&dates=57606A
+          path: cards/streak_light.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Commit updated cards
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add dark_mode.svg light_mode.svg cards/
+          git diff --staged --quiet || git commit -m "Daily stats update"
+          git push
