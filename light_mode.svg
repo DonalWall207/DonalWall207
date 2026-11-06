@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="985" height="460" font-family="ConsolasFallback, Consolas, 'Courier New', monospace" font-size="16px">
+<style>
+@font-face { src: local('Consolas'), local('Consolas Bold'); font-family: 'ConsolasFallback'; font-display: swap; -webkit-size-adjust: 109%; size-adjust: 109%; }
+.key {fill: #953800;} .value {fill: #0a3069;} .dots {fill: #c2cfde;} .add {fill: #1a7f37;} .del {fill: #cf222e;}
+text, tspan {white-space: pre;}
+</style>
+<rect width="985" height="460" fill="#f6f8fa" rx="15"/>
+<text x="15" y="30" fill="#24292f" class="ascii" xml:space="preserve">
+<tspan x="15" y="30">  ____                    _</tspan>
+<tspan x="15" y="50"> |  _ \  ___  _ __   __ _| |</tspan>
+<tspan x="15" y="70"> | | | |/ _ \| '_ \ / _` | |</tspan>
+<tspan x="15" y="90"> | |_| | (_) | | | | (_| | |</tspan>
+<tspan x="15" y="110"> |____/ \___/|_| |_|\__,_|_|</tspan>
+<tspan x="15" y="130"></tspan>
+<tspan x="15" y="150"> __        __    _ _</tspan>
+<tspan x="15" y="170"> \ \      / /_ _| | |</tspan>
+<tspan x="15" y="190">  \ \ /\ / / _` | | |</tspan>
+<tspan x="15" y="210">   \ V  V / (_| | | |</tspan>
+<tspan x="15" y="230">    \_/\_/ \__,_|_|_|</tspan>
+<tspan x="15" y="250"></tspan>
+<tspan x="15" y="270">  .------------------------.</tspan>
+<tspan x="15" y="290">  | $ make flash           |</tspan>
+<tspan x="15" y="310">  | [########----] 67%     |</tspan>
+<tspan x="15" y="330">  | target: ibm-firmware   |</tspan>
+<tspan x="15" y="350">  '------------------------'</tspan>
+</text>
+<text x="390" y="30" fill="#24292f" xml:space="preserve">
+<tspan x="390" y="30">donal@wall<tspan class="dots"> ———————————————————————————————————————————————</tspan></tspan>
+<tspan x="390" y="50"><tspan class="dots">. </tspan><tspan class="key">OS</tspan>:<tspan class="dots"> ............................ </tspan><tspan class="value">Firmware Engineer @ IBM</tspan></tspan>
+<tspan x="390" y="70"><tspan class="dots">. </tspan><tspan class="key">Uptime</tspan>:<tspan class="dots"> .................... </tspan><tspan class="value">24 years, 10 months, 5 days</tspan></tspan>
+<tspan x="390" y="90"><tspan class="dots">. </tspan><tspan class="key">Host</tspan>:<tspan class="dots"> ............................. </tspan><tspan class="value">MSc Computer Science</tspan></tspan>
+<tspan x="390" y="110"><tspan class="dots">. </tspan><tspan class="key">Kernel</tspan>:<tspan class="dots"> .................... </tspan><tspan class="value">Enterprise Software Systems</tspan></tspan>
+<tspan x="390" y="130"><tspan class="dots">. </tspan><tspan class="key">IDE</tspan>:<tspan class="dots"> ................. </tspan><tspan class="value">VS Code, IntelliJ, Android Studio</tspan></tspan>
+<tspan x="390" y="150"><tspan class="dots">——————————————————————————————————————————————————————————</tspan></tspan>
+<tspan x="390" y="170"><tspan class="dots">. </tspan><tspan class="key">Languages.Programming</tspan>:<tspan class="dots"> ..... </tspan><tspan class="value">C, Python, Java, Kotlin, TS</tspan></tspan>
+<tspan x="390" y="190"><tspan class="dots">. </tspan><tspan class="key">Languages.Computer</tspan>:<tspan class="dots"> ............... </tspan><tspan class="value">HTML, CSS, SQL, Bash</tspan></tspan>
+<tspan x="390" y="210"><tspan class="dots">. </tspan><tspan class="key">Tools</tspan>:<tspan class="dots"> .................. </tspan><tspan class="value">Docker, Git, Linux, AWS, Azure</tspan></tspan>
+<tspan x="390" y="230"><tspan class="dots">. </tspan><tspan class="key">Hobbies</tspan>:<tspan class="dots"> ........................... </tspan><tspan class="value">Football, F1, Rugby</tspan></tspan>
+<tspan x="390" y="250"><tspan class="dots">——————————————————————————————————————————————————————————</tspan></tspan>
+<tspan x="390" y="270"><tspan class="dots">. </tspan><tspan class="key">Previous</tspan>:<tspan class="dots"> ............ </tspan><tspan class="value">SOC Analyst Intern @ State Street</tspan></tspan>
+<tspan x="390" y="290">  <tspan class="dots">                          </tspan><tspan class="value">Bartender @ The Majestic Hotel</tspan></tspan>
+<tspan x="390" y="310">- <tspan class="key">Contact</tspan><tspan class="dots"> ———————————————————————————————————————————————</tspan></tspan>
+<tspan x="390" y="330"><tspan class="dots">. </tspan><tspan class="key">Email</tspan>:<tspan class="dots"> ......................... </tspan><tspan class="value">donaljohnwall@gmail.com</tspan></tspan>
+<tspan x="390" y="350"><tspan class="dots">. </tspan><tspan class="key">LinkedIn</tspan>:<tspan class="dots"> ................................... </tspan><tspan class="value">donal-wall</tspan></tspan>
+<tspan x="390" y="370">- <tspan class="key">GitHub Stats</tspan><tspan class="dots"> ——————————————————————————————————————————</tspan></tspan>
+<tspan x="390" y="390"><tspan class="dots">. </tspan><tspan class="key">Repos</tspan>:<tspan class="dots"> . </tspan><tspan class="value">— {Contributed: —}</tspan> | <tspan class="dots">. </tspan><tspan class="key">Stars</tspan>:<tspan class="dots"> ................ </tspan><tspan class="value">—</tspan></tspan>
+<tspan x="390" y="410"><tspan class="dots">. </tspan><tspan class="key">Commits</tspan>:<tspan class="dots"> .............. </tspan><tspan class="value">—</tspan> | <tspan class="dots">. </tspan><tspan class="key">Followers</tspan>:<tspan class="dots"> ............ </tspan><tspan class="value">—</tspan></tspan>
+<tspan x="390" y="430"><tspan class="dots">. </tspan><tspan class="key">Lines of Code on GitHub</tspan>:<tspan class="dots"> ................ </tspan><tspan class="value">—</tspan> ( <tspan class="add">—++</tspan>, <tspan class="del">—--</tspan> )</tspan>
+</text>
+</svg>
