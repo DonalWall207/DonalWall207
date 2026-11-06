@@ -27,7 +27,7 @@ text, tspan {white-space: pre;}
 <text x="390" y="30" fill="#c9d1d9" xml:space="preserve">
 <tspan x="390" y="30">donal@wall<tspan class="dots"> ———————————————————————————————————————————————</tspan></tspan>
 <tspan x="390" y="50"><tspan class="dots">. </tspan><tspan class="key">OS</tspan>:<tspan class="dots"> ............................ </tspan><tspan class="value">Firmware Engineer @ IBM</tspan></tspan>
-<tspan x="390" y="70"><tspan class="dots">. </tspan><tspan class="key">Uptime</tspan>:<tspan class="dots"> .................... </tspan><tspan class="value">24 years, 10 months, 5 days</tspan></tspan>
+<tspan x="390" y="70"><tspan class="dots">. </tspan><tspan class="key">Uptime</tspan>:<tspan class="dots"> ..................... </tspan><tspan class="value">24 years, 1 month, 29 days</tspan></tspan>
 <tspan x="390" y="90"><tspan class="dots">. </tspan><tspan class="key">Host</tspan>:<tspan class="dots"> ............................. </tspan><tspan class="value">MSc Computer Science</tspan></tspan>
 <tspan x="390" y="110"><tspan class="dots">. </tspan><tspan class="key">Kernel</tspan>:<tspan class="dots"> .................... </tspan><tspan class="value">Enterprise Software Systems</tspan></tspan>
 <tspan x="390" y="130"><tspan class="dots">. </tspan><tspan class="key">IDE</tspan>:<tspan class="dots"> ................. </tspan><tspan class="value">VS Code, IntelliJ, Android Studio</tspan></tspan>
@@ -43,8 +43,8 @@ text, tspan {white-space: pre;}
 <tspan x="390" y="330"><tspan class="dots">. </tspan><tspan class="key">Email</tspan>:<tspan class="dots"> ......................... </tspan><tspan class="value">donaljohnwall@gmail.com</tspan></tspan>
 <tspan x="390" y="350"><tspan class="dots">. </tspan><tspan class="key">LinkedIn</tspan>:<tspan class="dots"> ................................... </tspan><tspan class="value">donal-wall</tspan></tspan>
 <tspan x="390" y="370">- <tspan class="key">GitHub Stats</tspan><tspan class="dots"> ——————————————————————————————————————————</tspan></tspan>
-<tspan x="390" y="390"><tspan class="dots">. </tspan><tspan class="key">Repos</tspan>:<tspan class="dots"> . </tspan><tspan class="value">— {Contributed: —}</tspan> | <tspan class="dots">. </tspan><tspan class="key">Stars</tspan>:<tspan class="dots"> ................ </tspan><tspan class="value">—</tspan></tspan>
-<tspan x="390" y="410"><tspan class="dots">. </tspan><tspan class="key">Commits</tspan>:<tspan class="dots"> .............. </tspan><tspan class="value">—</tspan> | <tspan class="dots">. </tspan><tspan class="key">Followers</tspan>:<tspan class="dots"> ............ </tspan><tspan class="value">—</tspan></tspan>
-<tspan x="390" y="430"><tspan class="dots">. </tspan><tspan class="key">Lines of Code on GitHub</tspan>:<tspan class="dots"> ................ </tspan><tspan class="value">—</tspan> ( <tspan class="add">—++</tspan>, <tspan class="del">—--</tspan> )</tspan>
+<tspan x="390" y="390"><tspan class="dots">. </tspan><tspan class="key">Repos</tspan>:<tspan class="dots"> . </tspan><tspan class="value">30 {Contributed: 0}</tspan> | <tspan class="dots">. </tspan><tspan class="key">Stars</tspan>:<tspan class="dots"> ................ </tspan><tspan class="value">0</tspan></tspan>
+<tspan x="390" y="410"><tspan class="dots">. </tspan><tspan class="key">Commits</tspan>:<tspan class="dots"> ............ </tspan><tspan class="value">298</tspan> | <tspan class="dots">. </tspan><tspan class="key">Followers</tspan>:<tspan class="dots"> ........... </tspan><tspan class="value">28</tspan></tspan>
+<tspan x="390" y="430"><tspan class="dots">. </tspan><tspan class="key">Lines of Code on GitHub</tspan>:<tspan class="dots"> . </tspan><tspan class="value">445,878</tspan> ( <tspan class="add">454,483++</tspan>, <tspan class="del">8,605--</tspan> )</tspan>
 </text>
 </svg>
